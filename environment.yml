@@ -1,0 +1,9 @@
+name:  proposal
+channels:
+    - anaconda
+dependencies:
+    - python=2.7
+    - numpy
+    - matplotlib
+    - IPython
+    - matplotlib
